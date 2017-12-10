@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+##Functions for programming assignement 2 - lexical scoping
 
 ## Cache a matrix and its inverse
 
